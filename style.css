@@ -1,0 +1,31 @@
+* {
+  font-family:Arial, Helvetica, sans-serif;
+  letter-spacing: 0.5px;
+  font-size: 25px;
+  line-height: 50px;
+}
+
+label {
+  font-style: italic;
+}
+
+.register__title {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.login:focus {
+  background: gray;
+}
+
+.password:focus {
+  background: gray;
+}
+
+.submit:hover {
+  background: lightgreen;
+}
+
+.reset:hover {
+  background: lightcoral;
+}
